@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869427747254",
+    "firebase_url": "https://littleinfo-952fc.firebaseio.com",
+    "project_id": "littleinfo-952fc",
+    "storage_bucket": "littleinfo-952fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869427747254:android:0f9422221e83b065fb4917",
+        "android_client_info": {
+          "package_name": "com.d.littleinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869427747254-gbb28u14grc3s85mu9disa9t0f5d1fvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItDzmYHRnH4nIDGPFZulaq19pw1KgEiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869427747254-gbb28u14grc3s85mu9disa9t0f5d1fvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
